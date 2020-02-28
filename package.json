@@ -1,0 +1,20 @@
+{
+  "name": "parser-kata",
+  "version": "0.0.1",
+  "description": "Code for a csv parser as exercise",
+  "dependencies": {
+    "handlebars": "^4.7.3"
+  },
+  "devDependencies": {
+    "mocha": "~1.17",
+    "babel-eslint": "^8.2.1",
+    "chalk": "^2.3.0",
+    "eslint": "^4.15.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-html": "^4.0.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
